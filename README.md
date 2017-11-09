@@ -1,4 +1,3 @@
 # My Professional Portfolio
 
-## Live Site
-![](https://ngewirtz.github.io/)
+[Live Website](https://ngewirtz.github.io/)
