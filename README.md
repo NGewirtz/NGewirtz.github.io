@@ -1,3 +1,3 @@
 # My Professional Portfolio
 
-[Live Website](https://ngewirtz.github.io/)
+[Live Website](http://www.neilgewirtz.com/)
